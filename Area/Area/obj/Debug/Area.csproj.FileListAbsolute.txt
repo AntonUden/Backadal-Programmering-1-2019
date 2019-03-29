@@ -1,0 +1,7 @@
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\bin\Debug\Area.exe.config
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\bin\Debug\Area.exe
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\bin\Debug\Area.pdb
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\obj\Debug\Area.csprojAssemblyReference.cache
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\obj\Debug\Area.exe
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\Area\Area\obj\Debug\Area.pdb

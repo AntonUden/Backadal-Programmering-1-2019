@@ -1,0 +1,7 @@
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\bin\Debug\temperature converter.exe.config
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\bin\Debug\temperature converter.exe
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\bin\Debug\temperature converter.pdb
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\obj\Debug\temperature converter.csprojAssemblyReference.cache
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\obj\Debug\temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\obj\Debug\temperature converter.exe
+C:\Users\0130udan\OneDrive - Jönköpings kommun\programmering\VisualStudio\workspace\temperature converter\temperature converter\obj\Debug\temperature converter.pdb

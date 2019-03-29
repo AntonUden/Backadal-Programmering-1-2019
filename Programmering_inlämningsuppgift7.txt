@@ -1,0 +1,21 @@
+Inlämningsuppgift 7 - Lämnas in digitalt via vklass - Programmering 
+
+ 
+
+Del 1 
+
+Lämna in en *.exe fil som visar en ruta med följande meddelande:  
+
+" Hej världen! Jag heter <<förnamn>> och detta är mitt första program! " 
+
+ 
+
+Del 2  
+
+Lämna in ett komplett program (packa gärna ner alla filer till en fil) eller visa på lektionen: 
+
+Man ska skriva in temperaturen i Celsius och programmet ska omvandla siffran till Fahrenheit. När man trycker på en tangent ska programmet starta om från början med samma fråga. Programmet behöver inte klara av decimaler utan det räcker med heltal.  
+
+Del 3
+
+Skriv ett program där man ska ange en sida (m) av en kvadrat. Programmet ska beräkna area och omkrets samt skriva ut detta på skärmen.

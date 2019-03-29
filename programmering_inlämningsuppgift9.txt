@@ -1,0 +1,15 @@
+Inlämningsuppgift 9 - Grafiska gränssnitt
+
+Innan ni försöker er på denna uppgift jobba med kapitel 8 i boken (s.104-s.117)
+
+
+E:
+Välj uppgift 8.1 eller 8.2
+
++
+
+C-A:
+Uppgift 8.3
+För ett C ska du kunna redovisa deluppgift a-c (allt behöver inte fungera)
+
+För ett A ska du kunna redovisa alla deluppgifter (allt behöver fungera)

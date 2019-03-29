@@ -1,0 +1,31 @@
+Programmering 1 med C# 
+
+Inlämningsuppgift 8 
+
+Del 1
+
+
+"Is, Vatten eller ånga" 
+
+
+Man ska ange temperaturen i grader celsius. Programmet ska svara om det är is, vatten eller ånga 
+
+För högre betyg:
+
+Om det är IS-->blå färg
+Om det är vatten-->grön färg
+Om det är gas-->röd färg
+
+Del 2
+
+Skapa ett program som frågar dig efter följande: NAMN, ÅLDER
+Programmet ska sedan skriva ut uppgifterna du skrivit in samt följande:
+
+hej [namn], du behöver visa legitimation! ( om man är under 20)
+hej [namn], oj vad gammal du är!  (om man är över 70
+
+
+För högre betyg:
+Lägg ihop del 1 och del 2 i ett program. I början ska användaren få välja vilket av programmen som ska köras. När ett av programmen är färdiga kan man hoppa tillbaka till det andra programmet m.m.
+
+Lägg gärna till extra funktioner som t.ex.: om man anger under 18 års ålder skrivs texten ut.
